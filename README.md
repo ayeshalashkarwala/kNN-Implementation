@@ -1,4 +1,5 @@
 Overview
+
 This repository contains the implementation of a k-Nearest Neighbors (k-NN) classifier from scratch and using scikit-learn for digit classification on the MNIST dataset. The assignment is divided into two parts:
 
 Part 1: Implementing the k-NN classifier from scratch without using any machine learning toolkits (except NumPy, Pandas, Matplotlib, etc.).
